@@ -1,0 +1,1 @@
+stractVec<T>::get(AbstractVec<T>::read_index);
