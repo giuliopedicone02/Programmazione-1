@@ -4,7 +4,9 @@
 
 # Programmazione 1 (A.A. 2021/22 - Farinella G.M., Furnari A.)
 
-Repository creata a scopo didattico per essere utilizzata come backup dei file creati a lezione. N.B: file contenenti soluzioni personali e parzialmente incorrette
+Repository creata a scopo didattico per essere utilizzata come backup dei file creati a lezione. 
+
+**N.B: file contenenti soluzioni personali e parzialmente incorrette**
 
 * **Cartella Lezioni:** Contiene gli appunti presi durante il corso
 * **Cartella Esami:** Contiene prove di esame svolte durante il corso 
